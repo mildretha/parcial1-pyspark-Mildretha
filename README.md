@@ -2,11 +2,11 @@
 
 Este dataset contiene una colección de las **10,000 canciones más populares en Spotify**, abarcando un amplio rango temporal desde **1950 hasta la actualidad**. Es ideal para análisis de tendencias musicales, exploración de características de audio y desarrollo de modelos de machine learning relacionados con la industria musical.
 
-### 📊 Descripción general
+### Descripción general
 
 El conjunto de datos reúne información detallada de canciones disponibles en Spotify, incluyendo tanto atributos técnicos del audio como metadatos relevantes (artista, popularidad, año, etc.). Permite analizar cómo han evolucionado los estilos musicales, la energía de las canciones y otros factores a lo largo de las décadas.
 
-### 📁 Contenido del dataset
+### Contenido del dataset
 
 Cada fila representa una canción e incluye variables como:
 
